@@ -32,8 +32,17 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
 
+}
+
+.display-1,
+.pheader {
+  text-shadow: black 0.1em 0.1em 0.2em
+}
+
+.pheader {
+  font-weight: bold;
 }
